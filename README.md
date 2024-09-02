@@ -1,2 +1,2 @@
 # Quantum-Fourier-Transform
-QFT related to Quantum Computing
+QFT algorithm related to Quantum Computing
