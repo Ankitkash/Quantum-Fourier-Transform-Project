@@ -4,9 +4,9 @@ This project demonstrated the Quantum Fourier Transform (QFT) and qubit visualiz
 
 ## Project Overview
 
-- Quantum Fourier Transform (QFT): This is a key quantum algorithm used for transforming quantum states into the Fourier basis.
-- Qubit Visualization: Visualizes the qubit states at different stages of the quantum circuit.
-- Simulation in Qiskit: All the simulations and visualizations are performed using IBM's open-source quantum computing framework, Qiskit, in a Jupyter notebook.
+- **Quantum Fourier Transform (QFT):** This is a key quantum algorithm used for transforming quantum states into the Fourier basis.
+- **Qubit Visualization:** Visualizes the qubit states at different stages of the quantum circuit.
+- **Simulation in Qiskit:** All the simulations and visualizations are performed using IBM's open-source quantum computing framework, Qiskit, in a Jupyter notebook.
 
 ## Features
 
