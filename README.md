@@ -10,7 +10,7 @@ This project demonstrates the Quantum Fourier Transform (QFT) and qubit visualiz
 
 ## Features
 
-- Implements Quantum Fourier Transform algorithm
-- Visualizes qubit states (before and after QFT)
+- Implements Quantum Fourier Transform algorithm and Circuit
+- Visualizes qubit states 
 - Demonstrates quantum gates used in QFT
 - Includes Qiskit simulation for step-by-step execution
